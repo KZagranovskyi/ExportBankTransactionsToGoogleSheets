@@ -9,7 +9,8 @@ CapitalView provides a quick possibilto to collect all the **bank transactions i
 3. Install the [Google Sheets Addon](https://workspace.google.com/marketplace/app/capitalview/375261803937) that will populate the data into a spreadsheet. 
 4. Use personal token id for authentication and enjoy the data without unnecessary logins to bank account systems. 
 
-Check out [video demo](https://www.youtube.com/watch?v=ipWnOT4bo3w) for more details: <a href="http://www.youtube.com/watch?feature=player_embedded&v=ipWnOT4bo3w
-" target="_blank"><img src="https://mycapitalview.com/static/home/google-sheets.gif" 
-alt="Link to CapitalView demo" width="240" height="180" border="10" /></a>
+![budget template](https://mycapitalview.com/static/home/google-sheets.gif "Logo Title Text 1")
 
+
+
+Check out [video demo](https://www.youtube.com/watch?v=ipWnOT4bo3w) for more details.
